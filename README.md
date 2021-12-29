@@ -1,4 +1,4 @@
-# Computing-and-Numerics-Projects
+# Python Portfolio
 My Python portfolio: 
 Part 1:Two Python projects for the class "Computing and Numerics" taken spring 2021.
 Each project was written with Jupyter Notebooks and includes the respective questions/tasks given.
