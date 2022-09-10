@@ -1,5 +1,5 @@
 # Python Portfolio
-My Python portfolio: 
+
 Part 1 (A1.py & A2.py):Two Python projects for the class "Computing and Numerics" taken spring 2021.
 Each project was written with Jupyter Notebooks and includes the respective questions/tasks given.
 Project 1 (A1) was focused on fundamentals of numerical computing and numerical integration and differentiation.
