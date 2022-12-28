@@ -1,6 +1,4 @@
-# Python Portfolio
-
-(All files can be viewed directly in GitHub with no download)
+# Python Portfolio (All files can be viewed directly in GitHub with no download)
 
 Part 1 ("Vacation Scholarship: Project Report" & "pipesim1.py"): This is the culmination of work I did as part of a vacation scholarship awarded by the School of Mathematics, Edinburgh University, in summer 2022. Under guidance of Dr. Charlotte Desvages, I investigated finite difference schemes for sound synthesis of organ pipes using Python. The report derives a physical model of an organ pipe and the associated energy equations when finite difference schemes are used to analyse the varying air pressure within. The python file "pipesim1.py" computationally implements the model for an organ pipe of specific dimensions and shape. Within the code, these can be changed at the behest of the user. An animation of the pressure profile within the pipe against time is also produced. For more information, please see the full report.
 
