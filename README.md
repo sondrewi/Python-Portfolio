@@ -6,7 +6,7 @@ Part 1 ("Vacation Scholarship: Project Report" & "pipesim1.py"): This is the cul
 
 Part 2 ("Numerical Linear Algebra Project"): Project completed as part of coursework for the class "Numerical Linear Algebra" that I completed fall 2022. The assignment was submitted as a Jupyter notebook and assessed students' understanding of several numerical algorithms for the solution of systems of equations. The assignment contained tasks pertaining to both coding and conceptual knowledge. Awarded Grade: 94/100.
 
-Part 3 ("A1.py" & "A2.py"):Two Python projects for the class "Computing and Numerics" taken spring 2021.
+Part 3 ("A1.ipynb" & "A2.ipynb"):Two Python projects for the class "Computing and Numerics" taken spring 2021.
 Each project was written with Jupyter Notebooks and includes the respective questions/tasks given.
 Project 1 (A1) was focused on fundamentals of numerical computing and numerical integration and differentiation.
 Project 2 (A2) was focused on finding roots to polynomials in the real and complex planes as well as working with numerical approaches to systems of ODEs.
